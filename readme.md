@@ -4,4 +4,4 @@ Live link
 
 Netlify : https://magnificent-mousse-c73ea7.netlify.app/
 
-github: 
+github : https://aravindshajan6.github.io/calculator-project/
